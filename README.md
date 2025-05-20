@@ -1,1 +1,2 @@
 # prompts-podcast
+https://www.notion.so/8-Bits-de-Memoria-1f968946ee3c80228b42f3709dba3c7d
